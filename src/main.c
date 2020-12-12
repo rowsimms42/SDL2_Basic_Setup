@@ -1,3 +1,5 @@
+//main.c
+
 #include <printf.h>
 #include <SDL.h>
 #include <SDL_ttf.h>
